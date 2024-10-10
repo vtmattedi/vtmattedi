@@ -1,10 +1,10 @@
 ## Hello, I'm Vítor 😏
 
-I am a  :flag_it:Italian-Brazilian:flag_br: who loves to code since hes youth.
+➡️ I am a Italian-Brazilian who loves to code since hes youth.
 
-Currently studing Electrical Engineering (waiting on the internal transfer for Computer Engineering but already taking its classes) at [Federal University of Bahia](https://www.google.com/search?q=federal+university+of+bahia).
+👨‍🎓 Currently studing Electrical Engineering (waiting on the internal transfer for Computer Engineering but already taking its classes) at [Federal University of Bahia](https://www.google.com/search?q=federal+university+of+bahia).
 
-I also develop custom home automation and small web apps to individuals and small business through my MEI **MattediWorks**.
+💻 I also develop custom home automation and small web apps to individuals and small business through my MEI **MattediWorks**.
 
 ### Some of the things I know or like:
 
