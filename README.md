@@ -37,7 +37,7 @@ https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor
 ### 🔬 🎮 Currently working on:
 
 <a href="https://www.consoleadventure.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vtmattedi&repo=consoleadventure&theme=algolia"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vtmattedi&repo=newCrocApp2&theme=algolia"/>
 </a>
 <a href="https://www.fullstackaws.onrender.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vtmattedi&repo=fullstackaws&theme=algolia"/>
