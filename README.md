@@ -1,6 +1,6 @@
 ## Hello, I'm Vítor 😏
 
-➡️ I am an Italian-Brazilian who loves to code since his youth.
+➡️ I am an Italian-Brazilian who has loved to code since my youth.
 
 👨‍🎓 Currently studying Electrical Engineering (waiting on the internal transfer for Computer Engineering but already taking its classes) at [Federal University of Bahia](https://www.google.com/search?q=federal+university+of+bahia).
 
@@ -35,8 +35,8 @@ https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor
 </p>
 
 ### 🔬 🎮 Currently working on:
-
-<a href="https://www.crocspy.vercel.app">
+🐊
+<a href="https://crocspy.vercel.app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vtmattedi&repo=crocspy&theme=algolia"/>
 </a>
 <a href="https://www.fullstackaws.onrender.com">
