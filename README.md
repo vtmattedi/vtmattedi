@@ -35,7 +35,7 @@ https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor
 </p>
 
 ### 🔬 🎮 Currently working on:
-🐊
+
 <a href="https://crocspy.vercel.app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vtmattedi&repo=crocspy&theme=algolia"/>
 </a>
