@@ -38,7 +38,7 @@ My interests span full-stack development, infrastructure, embedded systems, and 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/br.svg" width="28" alt="Portuguese">&nbsp;
-<img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" width="28" alt="English">&nbsp;
+<img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gb.svg" width="28" alt="English">&nbsp;
 <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/es.svg" width="28" alt="Spanish">&nbsp;
 <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/de.svg" width="28" alt="German">&nbsp;
 <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/it.svg" width="28" alt="Italian">
