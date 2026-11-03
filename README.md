@@ -1,4 +1,3 @@
-
 # Hi, I'm Vitor 👋
 
 I'm a full-stack developer based in Salvador, Brazil, currently studying Computer Engineering at UFBA.
@@ -7,17 +6,31 @@ I build web applications, automation systems, and the infrastructure behind them
 
 My interests span full-stack development, infrastructure, embedded systems, and turning practical problems into working software.
 
+## Currently building
+
+- **[Stackport](https://github.com/vtmattedi/stackport)** — A self-hosted platform for deploying and managing applications on a single server, with a focus on simplifying infrastructure operations.
+- **[NightMare Network](https://github.com/vtmattedi/nightmare-network)** — An IoT communication and automation ecosystem connecting embedded devices, gateways, and applications.
+- **Watson** — An embedded acoustic detection system using digital signal processing to identify appliance states and events.
+
+## Tech stack
+
 <div align="center">
 
-**Languages**
+<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,go,cpp,docker,linux,postgres,git&perline=10" alt="Technology stack">
 
-<img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/br.svg" width="28" alt="Portuguese" title="Português">&nbsp;
-<img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" width="28" alt="English" title="English">&nbsp;
-<img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/es.svg" width="28" alt="Spanish" title="Español">&nbsp;
-<img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/de.svg" width="28" alt="German" title="Deutsch">&nbsp;
-<img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/it.svg" width="28" alt="Italian" title="Italiano">
+</div>
 
-<br>
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/br.svg" width="28" alt="Portuguese">&nbsp;
+<img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" width="28" alt="English">&nbsp;
+<img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/es.svg" width="28" alt="Spanish">&nbsp;
+<img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/de.svg" width="28" alt="German">&nbsp;
+<img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/it.svg" width="28" alt="Italian">
+
+<br><br>
 
 [Portfolio](https://vitor.mattediworks.com/en/work) · [LinkedIn](https://www.linkedin.com/in/vitor-mattedi-dev) · [Email](mailto:vmattedi.dev@gmail.com) · [MattediWorks](https://mattediworks.com)
 
