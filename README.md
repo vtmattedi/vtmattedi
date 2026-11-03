@@ -8,9 +8,22 @@ My interests span full-stack development, infrastructure, embedded systems, and 
 
 ## Currently building
 
-- **[Stackport](https://github.com/vtmattedi/stackport)** — A self-hosted platform for deploying and managing applications on a single server, with a focus on simplifying infrastructure operations.
-- **[NightMare Network](https://github.com/vtmattedi/nightmare-network)** — An IoT communication and automation ecosystem connecting embedded devices, gateways, and applications.
-- **Watson** — An embedded acoustic detection system using digital signal processing to identify appliance states and events.
+<p>
+  <img src="https://raw.githubusercontent.com/vtmattedi/Stackport/main/client/assets/stackport_logo.svg" width="24" height="24" alt="Stackport">
+  <strong><a href="https://github.com/vtmattedi/Stackport">Stackport</a></strong>
+  — A self-hosted control plane for deploying and managing Docker Compose applications on a single server, including routing, TLS, monitoring, and rollback.
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/vtmattedi/NightMareNetwork/main/website/nightmare_logo.svg" width="24" height="24" alt="NightMare Network">
+  <strong><a href="https://github.com/vtmattedi/NightMareNetwork">NightMare Network</a></strong>
+  — An ESP32 framework and resource protocol for device communication, discovery, and automation over MQTT and ESP-NOW.
+</p>
+
+<p>
+  🎙️ <strong><a href="https://github.com/vtmattedi/Watson">Watson</a></strong>
+  — An embedded acoustic detection system using digital signal processing to identify appliance states and events.
+</p>
 
 ## Tech stack
 
