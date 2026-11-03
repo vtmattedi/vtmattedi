@@ -16,7 +16,7 @@ My interests span full-stack development, infrastructure, embedded systems, and 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,go,cpp,docker,linux,postgres,git&perline=10" alt="Technology stack">
+<img src="https://skillicons.dev/icons?i=ts,react,nodejs,go,cpp,docker,linux,postgres,sqlite,git&perline=10" alt="Technology stack">
 
 </div>
 
